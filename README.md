@@ -1,0 +1,2 @@
+# Red-Blood-Cell-Counting-using-opencv
+This project is used to count the red blood cell of blood sample, In this project we are taking the picture of Sample of blood and apply grey scale over it. After that we count the number of cells present in the picture and also find the location of biggest cell and smallest cell perimeter of cells. We are writing the full code in one Cpp file having six function.
